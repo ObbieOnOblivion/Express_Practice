@@ -1,0 +1,2 @@
+1. Rest apis take no part in the clients interface, so if the api sends back html then its not a rest api. 
+2. 
